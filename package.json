@@ -1,0 +1,16 @@
+{
+  "name": "platform",
+  "version": "0.0.1",
+  "description": "platform de cours ",
+  "main": "nodemon server.js",
+  "scripts": {
+    "start": "nodemon server.js"
+  },
+ 
+  "keywords": [
+    "node"
+  ],
+  "author": "",
+  "license": "ISC"
+
+}
